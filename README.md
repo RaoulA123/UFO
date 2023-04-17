@@ -18,7 +18,7 @@ In addition, since there are many filters, we thought it would be convenient to 
 ![reset key](https://user-images.githubusercontent.com/115424156/232594119-ed246fa4-8133-468c-9753-3ec91e975420.png)
 
 
-Below is the end result of the siite
+Below is the end result of the site
 
 ![website rendering](https://user-images.githubusercontent.com/115424156/232594327-7e43c896-347f-4199-846d-03aa9ce40512.png)
 
@@ -31,6 +31,7 @@ The webiste is a good idea as it is a "one stop shop" for all information on UFO
 Additional work and tweaks still remain to get done.  For instance, 1/ it will prove important to identify the cource for the information being provided. This would ad to the credibility of the data.  2/ The filter reset key should be position next to the filters , at the bottom in the same area where the filers are located. 3/ It's important that input data not be case sensitive. for instance if state is CA instead of ca, there is no output. That's incorrect and misleading and finally 4/ going to to the credibility topic on point #1, i would have the website linked to local newspaper ( API).This would further add credibility to all information reported, which the website is relaying.
 
 The following lead to the webpage.
+C:\Users\ARN\cu\cw\12-JavaScript\UFO\challenge\web\index.html
 
 
 
