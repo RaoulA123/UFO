@@ -28,10 +28,17 @@ Below is the end result of the site
 
 The webiste is a good idea as it is a "one stop shop" for all information on UFO sightings. It allows easy access to information which should aloow the public to get information on their own without anyone filtering what they should know or shouldnt. 
 
-Additional work and tweaks still remain to get done.  For instance, 1/ it will prove important to identify the cource for the information being provided. This would ad to the credibility of the data.  2/ The filter reset key should be position next to the filters , at the bottom in the same area where the filers are located. 3/ It's important that input data not be case sensitive. for instance if state is CA instead of ca, there is no output. That's incorrect and misleading and finally 4/ going to to the credibility topic on point #1, i would have the website linked to local newspaper ( API).This would further add credibility to all information reported, which the website is relaying.
+Additional work and tweaks still remain to get done.  For instance, 
+
+1/ it will prove important to identify the cource for the information being provided. This would ad to the credibility of the data. 
+
+2/ The filter reset key should be position next to the filters , at the bottom in the same area where the filers are located and make it simple. simply call is "reset key or clieck here for next search ![Option to Clear filters ](https://user-images.githubusercontent.com/115424156/232597136-49458166-2bd9-4d4b-840a-0e14f40906d9.png)
+. 
+3/ It's important that input data not be case sensitive. for instance if state is CA instead of ca, there is no output. That's incorrect and misleading and finally 
+
+4/ going to to the credibility topic on point #1, i would have the website linked to local newspaper ( API).This would further add credibility to all information reported, which the website is relaying.
 
 The following lead to the webpage.
-C:\Users\ARN\cu\cw\12-JavaScript\UFO\challenge\web\index.html
-
+http://127.0.0.1:5500/web/index.html
 
 
