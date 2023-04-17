@@ -30,7 +30,7 @@ The webiste is a good idea as it is a "one stop shop" for all information on UFO
 
 Additional work and tweaks still remain to get done.  For instance, 
 
- + 1. it will prove important to identify the cource for the information being provided. This would ad to the credibility of the data. 
+ + 1. it will prove important to identify the cource for the information being provided. This would add to the credibility of the data. 
 
  + 2. The filter reset key should be position next to the filters , at the bottom in the same area where the filers are located and make it simple. simply call is "reset key or clieck here for next search
 
@@ -39,9 +39,9 @@ Additional work and tweaks still remain to get done.  For instance,
 
 + 3. It's important that input data not be case sensitive. for instance if state is CA instead of ca, there is no output. That's incorrect and misleading and finally 
 
-+ 4. going to to the credibility topic on point #1, i would have the website linked to local newspaper ( API).This would further add credibility to all information reported, which the website is relaying.
++ 4. Going back to the credibility topic on point #1, I would have the website linked to local newspapeSr via API.This would further add credibility to all information reported by others and which the website is relaying.
 
-The following lead to the webpage.
+The following leads to the webpage.
 http://127.0.0.1:5500/web/index.html
 
 
