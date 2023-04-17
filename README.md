@@ -31,15 +31,15 @@ The website is a good idea as it is a "one stop shop" for all information on UFO
 Additional work and tweaks still remain to get done.  For instance, 
 
  + 1. it will prove important to identify the cource for the information being provided. This would add to the credibility of the data. 
-
- + 2. The filter reset key should be positioned next to the filters , at the bottom in the same area where the filers are located and make it simple. simply call is "reset key or click here for next search  such as 
+ + 2. Placeholder information should be dynamic and disapear after data is queried based on one the filters.
+ + 3. The filter reset key should be positioned next to the filters , at the bottom in the same area where the filers are located and make it simple. simply call is "reset key or click here for next search  such as 
 
 ![Option to Clear filters ](https://user-images.githubusercontent.com/115424156/232597549-0fda1778-ad14-4875-9c56-ab00db16af3e.png)
 
 
-+ 3. It's important that input data not be case sensitive. For instance if the state of California is entered as "CA" instead of "ca", there is no output. That's incorrect and misleading as there is data for California. Finally 
++ 4. It's important that input data not be case sensitive. For instance if the state of California is entered as "CA" instead of "ca", there is no output. That's incorrect and misleading as there is data for California. Finally 
 
-+ 4. Going back to the credibility topic on point #1, I would have the website linked to local newspapeSr via API.This would further add credibility to all information reported by others and which the website is relaying.
++ 5. Going back to the credibility topic on point #1, I would have the website linked to local newspapeSr via API.This would further add credibility to all information reported by others and which the website is relaying.
 
 The following leads to the webpage.
 http://127.0.0.1:5500/web/index.html
