@@ -46,6 +46,7 @@ Additional work and tweaks still remain to get done.  For instance,
 + 5. Going back to the credibility topic on point #1, I would have the website linked to local newspapeSr via API.This would further add credibility to all information reported by others and which the website is relaying.
 
 The following leads to the webpage.
-http://127.0.0.1:5500/web/index.html
+
+file:///C:/Users/ARN/cu/cw/12-JavaScript/UFO/web/index.html
 
 
